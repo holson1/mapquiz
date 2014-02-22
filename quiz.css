@@ -1,0 +1,121 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	background-image:url('oregon.jpg');
+	margin-top: 8px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 95%;
+	width: 700px;
+}
+
+h1 {
+	text-align: center;
+	font: 30px Georgia, serif;
+	margin-bottom: 4px;
+}
+
+hr {
+	color: darkgray;
+}
+
+#container {
+	background: rgba(255, 255, 255, 0.9);
+	padding-left: 16px;
+	padding-right: 16px;
+	border: 1px solid gray;
+	width: 700px;
+	height: 614px;
+}
+
+
+footer {
+	font-size: 16px;
+	font-style: italic;	
+}
+
+aside {
+	float: right;
+}
+
+#control {
+	height: 130px;
+	border: 1px solid black;
+	padding-left: 16px;
+	margin-top: 10px;
+	width: 30%;
+	background-color: beige;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#control input {
+	float: right;
+	margin-right: 16px;
+	margin-top: 25px;
+}
+
+#control h2 {
+	margin-top: 16px;
+}
+
+#instructions {
+	height: 150px;
+	width: 26%;
+	text-align: left;
+	margin-top: -25px;
+	margin-left: 0px;
+}
+
+
+#instructions ol {
+	position: relative;
+	left: -20px;
+}
+
+#map-canvas {
+	height: 300px;
+	width: 500px;
+}
+
+#questions {
+	height: 150px;
+}
+
+#date {
+	font-style: italic;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#qbox {
+	background-color: beige;
+	height: 130px;
+	width: 60%;
+	font-size: 16px;
+	margin-bottom: 2px;
+	margin-top: 0px;
+	padding-top: 0px;
+	border: 1px solid black;
+}
+
+#radio0,#radio2 {
+	margin-left: 4px;
+}
+
+#radio1,#radio3 {
+	margin-left: 60px;
+}
+
+#submit {
+	margin-top: -5px;
+	float: right;
+}
+
+/*Henry Olson
+W0755449*/
